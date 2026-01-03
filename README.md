@@ -1,5 +1,5 @@
-SEEK: Sequential Knockoffs for Variable Selection in Reinforcement Learning
----
+# SEEK: Sequential Knockoffs for Variable Selection in Reinforcement Learning
+
 
 This repository contains the implementation for the paper "Sequential Knockoffs for Variable Selection in Reinforcement Learning" (JASA, 2025+) in Python.
 
